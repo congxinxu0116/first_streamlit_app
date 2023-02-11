@@ -2,7 +2,7 @@
 
 import streamlit
 import pandas
-import request
+import requests
 
 streamlit.title('My Parents New Healthy Diner')
 
